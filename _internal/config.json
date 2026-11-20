@@ -1,0 +1,7 @@
+{
+  "APP_MODE": "POS",
+  "STORE_ID": "POS_01",
+  "TERMINAL_ID": "POS_01_01",
+  "SYNC_ENABLED": false,
+  "SYNC_URL": "http://127.0.0.1:8090"
+}
